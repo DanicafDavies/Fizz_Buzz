@@ -1,2 +1,2 @@
 # Fizz_Buzz
-Fizz_Buzz coding solution in java
+Fizz_Buzz coding solution in Java
